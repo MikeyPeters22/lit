@@ -1,0 +1,8 @@
+C:\Users\10010931\desktop\Memes\bin\Debug\netcoreapp1.1\Memes.deps.json
+C:\Users\10010931\desktop\Memes\bin\Debug\netcoreapp1.1\Memes.runtimeconfig.json
+C:\Users\10010931\desktop\Memes\bin\Debug\netcoreapp1.1\Memes.runtimeconfig.dev.json
+C:\Users\10010931\desktop\Memes\bin\Debug\netcoreapp1.1\Memes.dll
+C:\Users\10010931\desktop\Memes\bin\Debug\netcoreapp1.1\Memes.pdb
+C:\Users\10010931\desktop\Memes\obj\Debug\netcoreapp1.1\Memes.AssemblyInfo.cs
+C:\Users\10010931\desktop\Memes\obj\Debug\netcoreapp1.1\Memes.dll
+C:\Users\10010931\desktop\Memes\obj\Debug\netcoreapp1.1\Memes.pdb
